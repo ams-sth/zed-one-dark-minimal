@@ -1,0 +1,1 @@
+# zed-one-dark-minimal
