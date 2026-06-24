@@ -2,9 +2,11 @@
 
 A dark theme that gets out of the way. Clean surfaces, no border lines, five syntax colours, enough to tell your code apart, not enough to distract you from it.
 
+![Vantadark](themes/vantadark.png)
+
 ## Philosophy
 
-This theme treats borders as optional. Separation comes from surface contrast and spacing instead, where each zone (editor, sidebar, tabs, status bar) sits at its own distinct depth. You know where you are without being told.
+Borders (Separator lines) only appear where color can't do the job alone. Everything else relies on surface depth.
 
 Syntax colours are intentional and minimal:
 
