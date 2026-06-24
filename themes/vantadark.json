@@ -5,12 +5,12 @@
   "description": "Inspired by One Dark - Darkened by Pavle Sokic",
   "themes": [
     {
-      "name": "vantadark",
+      "name": "Vantadark",
       "appearance": "dark",
       "style": {
-        "border": "#00000000",
+        "border": "#1a1e23ff",
         "border.variant": "#00000000",
-        "border.focused": "#00000000",
+        "border.focused": "#1a1e23ff",
         "border.selected": "#00000000",
         "border.transparent": "#00000000",
         "border.disabled": "#00000000",
