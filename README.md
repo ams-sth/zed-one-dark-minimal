@@ -1,31 +1,40 @@
 # Vantadark
 
-A dark theme for Zed that gets out of the way. Clean surfaces, no border lines, five syntax colours, enough to tell your code apart, not enough to distract you from it.
-
-![One Dark Minimal](themes/vantadark.png)
+A dark theme that gets out of the way. Clean surfaces, no border lines, five syntax colours, enough to tell your code apart, not enough to distract you from it.
 
 ## Philosophy
 
-This theme treats borders as optional. Separation comes from surface contrast and spacing instead where each zone (editor, sidebar, tabs, status bar) sits at its own distinct depth. You know where you are without being told.
+This theme treats borders as optional. Separation comes from surface contrast and spacing instead, where each zone (editor, sidebar, tabs, status bar) sits at its own distinct depth. You know where you are without being told.
 
 Syntax colours are intentional and minimal:
 
-- **Blue** - functions, constructors
-- **Sage green** - strings
-- **Amber** -constants, numbers
-- **Purple** - keywords
-- **Dusty rose** - properties (the "pay attention" colour, used sparingly)
-- Everything else i.e. variables, punctuation, namespaces fades into the background. Structural, not semantic.
+- **Blue** — functions, constructors
+- **Sage green** — strings
+- **Amber** — constants, numbers
+- **Purple** — keywords
+- **Dusty rose** — properties (the "pay attention" colour, used sparingly)
+
+Everything else — variables, punctuation, namespaces — fades into the background. Structural, not semantic.
 
 ## Install
 
-Search for **Vantadark** in Zed's extension marketplace:
+Open the Command Palette:
 
-```
-cmd+shift+p → zed: extensions → search "Vantadark"
+**macOS**
+
+```text
+cmd + shift + p → extensions → search "Vantadark"
 ```
 
-Or add it directly to your `settings.json`:
+**Windows/Linux**
+
+```text
+ctrl + shift + p → extensions → search "Vantadark"
+```
+
+Or search for **Vantadark** in Zed's extension marketplace.
+
+Configure your theme:
 
 ```json
 {
@@ -35,6 +44,8 @@ Or add it directly to your `settings.json`:
   }
 }
 ```
+
+---
 
 ## Credits
 
