@@ -1,8 +1,8 @@
-# One Dark Minimal
+# Vantadark
 
 A dark theme for Zed that gets out of the way. Clean surfaces, no border lines, five syntax colours, enough to tell your code apart, not enough to distract you from it.
 
-![One Dark Minimal](themes/one-dark-minimal.png)
+![One Dark Minimal](themes/vantadark.png)
 
 ## Philosophy
 
@@ -15,15 +15,14 @@ Syntax colours are intentional and minimal:
 - **Amber** -constants, numbers
 - **Purple** - keywords
 - **Dusty rose** - properties (the "pay attention" colour, used sparingly)
-
-Everything else i.e. variables, punctuation, namespaces fades into the background. Structural, not semantic.
+- Everything else i.e. variables, punctuation, namespaces fades into the background. Structural, not semantic.
 
 ## Install
 
-Search for **One Dark Minimal** in Zed's extension marketplace:
+Search for **Vantadark** in Zed's extension marketplace:
 
 ```
-cmd+shift+p → zed: extensions → search "One Dark Minimal"
+cmd+shift+p → zed: extensions → search "Vantadark"
 ```
 
 Or add it directly to your `settings.json`:
@@ -32,7 +31,7 @@ Or add it directly to your `settings.json`:
 {
   "theme": {
     "mode": "dark",
-    "dark": "One Dark Minimal"
+    "dark": "Vantadark"
   }
 }
 ```

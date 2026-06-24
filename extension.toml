@@ -1,8 +1,8 @@
-id = "one-dark-minimal-theme"
-name = "One Dark Minimal"
-version = "1.0.0"
+id = "vantadark-theme"
+name = "Vantadark"
+version = "1.1.0"
 schema_version = 1
 description = "A minimal dark theme for Zed. Clean surfaces, no borders, five syntax colours. Gets out of the way."
-repository = "https://github.com/ams-sth/zed-one-dark-minimal"
+repository = "https://github.com/ams-sth/vantadark"
 authors = ["Amsh Shrestha <sthaamsh37@gmail.com>"]
-themes = ["themes/one-dark-minimal.json"]
+themes = ["themes/vantadark.json"]
