@@ -14,6 +14,7 @@
         "border.selected": "#00000000",
         "border.transparent": "#00000000",
         "border.disabled": "#00000000",
+        "background": "#1a1e23ff",
         "elevated_surface.background": "#14171dff",
         "surface.background": "#191c22ff",
         "panel.background": "#14171dff",
