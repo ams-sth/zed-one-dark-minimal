@@ -1,6 +1,6 @@
 id = "vantadark-theme"
 name = "Vantadark"
-version = "1.1.5"
+version = "2.0.0"
 schema_version = 1
 description = "Clean surfaces, minimal yet subtle border lines, five syntax colours. Enough to tell your code apart, not enough to distract you from it."
 repository = "https://github.com/ams-sth/vantadark"
