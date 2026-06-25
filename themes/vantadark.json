@@ -394,8 +394,50 @@
             "color": "#404a5fff",
             "font_style": "italic",
             "font_weight": null
+          },
+          "function.method": {
+            "color": "#5d8fbfff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.builtin": {
+            "color": "#4a9aabff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.interface": {
+            "color": "#4a9aabff",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "type.super": {
+            "color": "#4a9aabff",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "variable.member": {
+            "color": "#adb3beff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.parameter": {
+            "color": "#c9a85cff",
+            "font_style": "italic",
+            "font_weight": null
           }
-        }
+        },
+        "search.active_match_background": "#5d8fbf44",
+        "panel.focused_border": "#00000000",
+        "panel.indent_guide": "#ffffff0a",
+        "panel.indent_guide_active": "#ffffff18",
+        "panel.indent_guide_hover": "#5d8fbf66",
+        "panel.overlay_background": "#14171dee",
+        "pane.focused_border": "#00000000",
+        "pane_group.border": "#00000000",
+        "scrollbar.thumb.active_background": "#ffffff25",
+        "editor.indent_guide": "#ffffff0a",
+        "editor.indent_guide_active": "#ffffff18",
+        "terminal.ansi.background": "#0f1117ff"
       }
     }
   ]
