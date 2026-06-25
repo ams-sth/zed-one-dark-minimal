@@ -1,12 +1,26 @@
 # Vantadark
 
-A dark theme that gets out of the way. Clean surfaces, no border lines, five syntax colours, enough to tell your code apart, not enough to distract you from it.
+A theme family that gets out of the way. Two variants — one for each side of the day.
+
+---
+
+## Vantadark
+
+Clean surfaces, minimal yet subtle border lines, five syntax colours. Enough to tell your code apart, not enough to distract you from it.
 
 ![Vantadark](themes/vantadark.png)
 
+## Vantabright
+
+The light sibling. JetBrains Islands Light chrome, the same ink palette translated to a clean white editor with a whisper of cool in the panels.
+
+![Vantabright](themes/vantabright.png)
+
+---
+
 ## Philosophy
 
-Borders (Separator lines) only appear where color can't do the job alone. Everything else relies on surface depth.
+Borders (separator lines) only appear where colour can't do the job alone. Everything else relies on surface depth.
 
 Syntax colours are intentional and minimal:
 
@@ -17,6 +31,10 @@ Syntax colours are intentional and minimal:
 - **Dusty rose** — properties (the "pay attention" colour, used sparingly)
 
 Everything else — variables, punctuation, namespaces — fades into the background. Structural, not semantic.
+
+Five colours is a constraint, not a limitation. When every token is a different colour, your brain stops using colour as signal. We'd rather you read the code.
+
+---
 
 ## Install
 
@@ -42,7 +60,8 @@ Configure your theme:
 {
   "theme": {
     "mode": "dark",
-    "dark": "Vantadark"
+    "dark": "Vantadark",
+    "light": "Vantabright"
   }
 }
 ```
